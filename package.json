@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tunejson",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tune numeric json values, ranges, and human-readable units.",
+  "bin": {
+    "tunejson": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tunejson.git"
+  },
+  "homepage": "https://theworker02.github.io/tunejson/",
+  "keywords": [
+    "tune",
+    "json",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
